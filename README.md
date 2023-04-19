@@ -1,4 +1,8 @@
+ ✌🏻 Olá, sou o Pietro atuo como desenvolvedor.
  
+ 👨‍🎓 Sou formado em Engenharia Mecânica mas não atuo mais na área e desde 2020 estudo tecnologia, atualmente estudo Análise e Desenvolvimento de Sistemas.
+ 
+ 🤓 Estou em constante atualização e busco sempre aprender para que um dia possa me tornar uma referência no setor.
 
 
 
