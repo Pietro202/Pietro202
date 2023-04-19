@@ -1,16 +1,14 @@
-### Hi there 👋
+ 
 
-<!--
-**Pietro202/Pietro202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d6c722?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow" />
+</p>
+
+
+
+[![Pietrothelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietro202&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Pietro202)
+![Pietrothelly's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro202&layout=compact&langs_count=16&theme=dracula)
